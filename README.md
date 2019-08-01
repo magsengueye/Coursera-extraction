@@ -7,24 +7,21 @@ The purpose of this project is to extract all the videos from a Coursera course
 Follow the instructions to get the code to run properly
 
 1) Sign in to Coursera manually using your username and password
-2) Go to the home page of that course
-
-### Prerequisites
-
-You need to be Enrolled in the course (either paid or audit)
+2) You need to be Enrolled in the course you want to download (either paid or audit)
+3) Go to the home page of that course e.g. (https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 ### Changes in the code
 
 Make changes to the following code lines before running it
 
-1) Change the path to save
+1) Change the course link to save
 
 ```
-Give the example
+url_path = 'https://www.coursera.org/learn/nlp-sequence-models/home/welcome'
 ```
 
 2) Change the path to save
 
 ```
-Give the example
+path_to_folder = 'C:/Users/../Documents/Coursera'
 ```
