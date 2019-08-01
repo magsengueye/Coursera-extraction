@@ -2,7 +2,7 @@
 
 The purpose of this project is to extract all the videos from a Coursera course 
 
-## Getting Started
+### Getting Started
 
 Follow the instructions to get the code to run properly
 
@@ -25,3 +25,6 @@ url_path = 'https://www.coursera.org/learn/nlp-sequence-models/home/welcome'
 ```
 path_to_folder = 'C:/Users/../Documents/Coursera'
 ```
+### Run the code
+
+Now you are ready to run the code! Happy offline learning
