@@ -18,8 +18,8 @@ browser = webdriver.Firefox(executable_path=r'C:\Users\...\Downloads\geckodriver
 
 
 # inputs
-url_path = 'https://www.coursera.org/learn/nlp-sequence-models/home/welcome'
-path_to_folder = '...'
+url_path = 'https://www.coursera.org/learn/excellence-operationnelle/home/welcome'
+path_to_folder = 'G:/coursera'
 # end of inputs
 
 url_path = '/'.join(url_path.split('/')[0:len(url_path.split('/'))-1])
